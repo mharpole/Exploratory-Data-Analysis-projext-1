@@ -1,0 +1,12 @@
+---
+title: "Exploratory Data Analysis Project 1 Codebook"
+author: "Michael G Harpole"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
